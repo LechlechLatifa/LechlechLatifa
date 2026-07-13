@@ -18,7 +18,7 @@ I enjoy sharing what I learn through technical articles and project write-ups. M
 📖 Read my articles on [Medium](https://medium.com/@lechlechlatifa)
 
 ## 📫 How to reach me:
-* [LinkedIn](https://www.linkedin.com/in/latifa-lechlech/) *
+* [LinkedIn](https://www.linkedin.com/in/latifa-lechlech/)
 
 ## ⚡ Fun fact:
 * E = MC² --> Energy = Machine Learning × Coffee².
