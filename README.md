@@ -20,7 +20,8 @@ I enjoy sharing what I learn through technical articles and project write-ups. M
 ## 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/latifa-lechlech/) *
 
-⚡ Fun fact: E = MC² --> Energy = Machine Learning × Coffee².
+## ⚡ Fun fact:
+* E = MC² --> Energy = Machine Learning × Coffee².
 
 <!--
 **LechlechLatifa/LechlechLatifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
