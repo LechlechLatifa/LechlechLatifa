@@ -6,16 +6,15 @@ I'm an AI & Machine Learning enthusiast with a strong interest in **Geometric De
 * Exploring representation learning, graph transformers, and scalable ML models
 * Reproducing recent research papers and experimenting with state-of-the-art architectures
 
-
-
 ## ✍️ I write on Medium
 I enjoy sharing what I learn through technical articles and project write-ups. My posts cover topics such as Artificial Intelligence, Machine Learning, Geometric Deep Learning, Graph Neural Networks, and practical implementations of research papers. I believe that teaching and writing are among the best ways to deepen understanding. Read my articles on [Medium](https://medium.com/@lechlechlatifa)
+
+## ⚡ Fun fact:
+* E = MC² --> Energy = Machine Learning × Coffee².
 
 ## 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/latifa-lechlech/)
 
-## ⚡ Fun fact:
-* E = MC² --> Energy = Machine Learning × Coffee².
 
 <!--
 **LechlechLatifa/LechlechLatifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
