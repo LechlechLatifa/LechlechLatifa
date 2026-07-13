@@ -9,8 +9,7 @@ I'm an AI & Machine Learning enthusiast with a strong interest in **Geometric De
 
 
 ## ✍️ I write on Medium
-I enjoy sharing what I learn through technical articles and project write-ups. My posts cover topics such as Artificial Intelligence, Machine Learning, Geometric Deep Learning, Graph Neural Networks, and practical implementations of research papers. I believe that teaching and writing are among the best ways to deepen understanding.
-📖 Read my articles on [Medium](https://medium.com/@lechlechlatifa)
+I enjoy sharing what I learn through technical articles and project write-ups. My posts cover topics such as Artificial Intelligence, Machine Learning, Geometric Deep Learning, Graph Neural Networks, and practical implementations of research papers. I believe that teaching and writing are among the best ways to deepen understanding. Read my articles on [Medium](https://medium.com/@lechlechlatifa)
 
 ## 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/latifa-lechlech/)
